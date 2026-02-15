@@ -101,7 +101,7 @@ Le programme utilise :
 ```bash
 📁 PORT-SCANNER-PYTHON
  ├── scanner.py        # Script principal
- ├── demo.gif          # Vidéo de démonstration (optionnelle)
+ ├── requirements.txt
  └── README.md         # Documentation
 ```
 
